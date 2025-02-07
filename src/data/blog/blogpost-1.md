@@ -1,7 +1,7 @@
 ---
 title: Proyecto 1
-pubDate: 11/09/2022 14:25
-author: "Elian Van Cutsem"
+pubDate: 07/02/2022
+author: "Javier Callejo"
 tags:
   - JavaScript
   - Astro
