@@ -31,10 +31,6 @@ My contributions to the project are:
 - **Background art** pre-rendered in 3D using Blender.
 - **UI Design** and visual composition.
 
-## Conclusion
-
-This AI-driven composition tool offers a new approach to game music development, making the process more accessible and efficient for developers. Future improvements include expanding the AI model’s learning dataset and enhancing real-time adaptation techniques.
-
 ## Links
 
 - [GitHub Repository](https://github.com/miggon23/TFG_AsistenteComposicionConIA)
