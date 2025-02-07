@@ -7,7 +7,7 @@ tags:
   - Music
   - JavaScript
   - Python
-imgUrl: '../../assets/VM.png'
+imgUrl: '../../assets/tfg_music_tool.jpeg'
 description: This project is my final degree thesis: an AI-powered tool for automatic music composition designed for video games. The tool allows dynamic and adaptive music generation to enhance gameplay experiences.
 ---
 
