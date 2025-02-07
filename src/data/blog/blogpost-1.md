@@ -4,7 +4,7 @@ pubDate: 07/02/2022
 author: "Javier Callejo"
 tags:
   - JavaScript
-imgUrl: '../../assets/VM.png'
+imgUrl: '../../assets/vm.jpeg'
 description: This project is my final degree thesis: an AI-powered tool for automatic music composition designed for video games. The tool allows dynamic and adaptive music generation to enhance gameplay experiences.
 ---
 
@@ -21,7 +21,7 @@ This AI-Powered Music Composition Tool is an innovative solution designed to ass
 
 ## Demonstration Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7NNvXebn5eg?si=dC7-ux9GE0pKV5MG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/7NNvXebn5eg?si=dC7-ux9GE0pKV5MG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 ## Technical Details
 
