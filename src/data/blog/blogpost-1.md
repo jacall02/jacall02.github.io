@@ -1,5 +1,5 @@
 ---
-title: AI-Powered Music Composition Tool
+title: Vanguard Music, a video game music generation tool
 pubDate: 07/02/2022
 author: "Javier Callejo"
 tags:
