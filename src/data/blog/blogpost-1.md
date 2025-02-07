@@ -1,6 +1,6 @@
 ---
 title: Proyecto 1
-pubDate: 26/07/2024
+pubDate: 07/02/2022
 author: "Javier Callejo"
 tags:
   - JavaScript
