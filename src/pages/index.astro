@@ -2,31 +2,19 @@
 import Layout from '@layouts/Default.astro';
 import RecentBlogPosts from '@components/generic/RecentBlogPosts.astro';
 import MobileSocials from '@components/home/MobileSocials.astro';
-import { Pill } from '@eliancodes/brutal-ui';
 import { Button } from '@eliancodes/brutal-ui';
 import { Card } from '@eliancodes/brutal-ui';
-
-const builtWith = [
-  { name: 'Unity', url: 'https://unity.com/' },
-  { name: 'Unreal Engine', url: 'https://www.unrealengine.com/' },
-  { name: 'Blender', url: 'https://www.blender.org/' },
-  { name: 'Adobe Photoshop', url: 'https://www.adobe.com/products/photoshop.html' },
-  { name: 'FMod', url: 'https://www.fmod.com/' },
-  { name: 'Git', url: 'https://git-scm.com/' },
-  { name: 'C++', url: 'https://isocpp.org/' },
-  { name: 'C#', url: 'https://learn.microsoft.com/en-us/dotnet/csharp/' },
-];
 ---
 
 <Layout
   title='Javier Callejo Herrero'
   pageTitle='Javier Callejo Herrero | Portfolio'
-  description='Desarrollador de videojuegos, productor musical y artista 2D y 3D.'
+  description='Video game developer, music producer, and 2D/3D artist.'
 >
   <main class='bg-pink p-6'>
     <MobileSocials />
     <section id='about' class='grid md:grid-cols-8 gap-8 mt-4'>
-      <h2 class='hidden'>Sobre Javier Callejo Herrero</h2>
+      <h2 class='hidden'>About Javier Callejo Herrero</h2>
       <div class='col-span-4'>
         <Card>
           <div class='flex flex-col justify-between items-start gap-4'>
@@ -34,47 +22,22 @@ const builtWith = [
               Javier Callejo Herrero
             </p>
             <p class='mt-2 outfit text-xl md:text-3xl lg:text-5xl'>
-              Desarrollador de videojuegos | Productor musical | Artista 2D/3D
+              Video Game Developer | Music Producer | 2D/3D Artist
             </p>
-            <Button target={'_self'} href='/blog/'>
-              Ver mis proyectos &rarr;
+            <Button target={'_self'} href='/projects/'>
+              View My Projects &rarr;
             </Button>
           </div>
         </Card>
       </div>
       <div class='col-span-2'>
         <Card>
-          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-8 dm-serif'>
-            Tecnologías que uso
-          </h2>
-          <ul class='flex gap-4 flex-wrap'>
-            {
-              builtWith.map((item) => (
-                <li>
-                  <Pill>
-                    <a
-                      class='sanchez'
-                      href={item.url}
-                      target='_blank'
-                      title={`Go to ${item.name}`}
-                    >
-                      {item.name}
-                    </a>
-                  </Pill>
-                </li>
-              ))
-            }
-          </ul>
-        </Card>
-      </div>
-      <div class='col-span-2'>
-        <Card>
           <h2 class='text-2xl md:text-4xl lg:text-6xl mb-4 dm-serif'>
-            Sobre mí
+            About Me
           </h2>
           <p class='poppins'>
-            Soy un desarrollador de videojuegos con experiencia en programación en C++, C#, Python y JavaScript. 
-            También soy productor musical y artista 2D/3D, con habilidades en modelado, animación y diseño de sonido.
+            I am a creative person seeking the fusion of music and visuals, primarily focused on achieving this through video game development. 
+            I am always looking for new challenges to overcome in order to grow as an artist and as a person.
           </p>
         </Card>
       </div>
