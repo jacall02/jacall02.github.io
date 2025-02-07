@@ -1,12 +1,12 @@
 ---
 title: Proyecto 1
-pubDate: 07/02/2022
+pubDate: 26/07/2024
 author: "Javier Callejo"
 tags:
-  - JavaScript
-  - Astro
-  - UnoCSS
-imgUrl: '../../assets/astro.jpeg'
+  - Music
+  - 3D Art
+  - UI Design
+imgUrl: '../../assets/VM.png'
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
 ---
 
