@@ -1,44 +1,41 @@
 ---
-title: Proyecto 1
-pubDate: 05/26/2024
+title: AI-Powered Music Composition Tool
+pubDate: 07/02/2022
 author: "Javier Callejo"
 tags:
   - JavaScript
-  - Astro
-  - UnoCSS
-imgUrl: '../../assets/vm.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+imgUrl: '../../assets/VM.png'
+description: This project is my final degree thesis: an AI-powered tool for automatic music composition designed for video games. The tool allows dynamic and adaptive music generation to enhance gameplay experiences.
 ---
 
-## Deorum petiit ignis
+## Introduction
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+This AI-Powered Music Composition Tool is an innovative solution designed to assist video game developers in generating adaptive and dynamic soundtracks. Using machine learning algorithms, the tool analyzes gameplay elements and generates music that fits the mood and intensity of the game.
 
-## Iovis late orbem Perseus sunt
+## Features
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+- **Real-time music composition** based on the game state.
+- **Integration with popular engines** like Unity and Unreal Engine.
+- **Customizable parameters** for different game genres and moods.
+- **User-friendly interface** for game developers and composers.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+## Demonstration Video
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NNvXebn5eg?si=dC7-ux9GE0pKV5MG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+## Technical Details
 
-## Geminas namque quod referitur argenteus aderat superstes
+The tool is developed using:
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+- **Python** for AI-based music generation.
+- **JavaScript** for the frontend and user interface.
+- **TensorFlow** for machine learning models.
+- **MIDI processing** to generate real-time compositions.
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+## Conclusion
+
+This AI-driven composition tool offers a new approach to game music development, making the process more accessible and efficient for developers. Future improvements include expanding the AI model’s learning dataset and enhancing real-time adaptation techniques.
+
+## Links
+
+- [GitHub Repository](https://github.com/miggon23/TFG_AsistenteComposicionConIA)
