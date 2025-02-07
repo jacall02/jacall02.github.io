@@ -1,5 +1,5 @@
 ---
-title: Blogpost 1
+title: Proyecto 1
 pubDate: 11/09/2022 14:25
 author: "Elian Van Cutsem"
 tags:
