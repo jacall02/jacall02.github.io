@@ -1,5 +1,5 @@
 ---
-title: Crazy U, a video game made witha a custom game engine
+title: Crazy U, a video game made with a custom game engine
 pubDate: 05/29/2024
 author: "Javier Callejo"
 tags:
@@ -10,7 +10,7 @@ tags:
   - Video Editing
   - Brand Design
 imgUrl: '../../assets/u.jpeg'
-description: A video game we made using our own game engine using C++.
+description: A video game we made with our own game engine using C++.
 ---
 
 ## Crazy U

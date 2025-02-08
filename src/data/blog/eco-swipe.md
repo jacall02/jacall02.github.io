@@ -1,5 +1,5 @@
 ---
-title: Eco Swipe, a serious game about Environmental decision making
+title: Eco Swipe, a serious game about environmental decision making
 pubDate: 05/29/2024
 author: "Javier Callejo"
 tags:
@@ -11,13 +11,13 @@ tags:
   - 2D Art
   - UI Design
   - Brand Design
-imgUrl: '../../assets/vm.jpeg'
-description: This project is my final degree thesis, an AI-powered tool for automatic music composition designed for video games. It enables game developers to create music for their games without any prior musical knowledge. I developed this alongside three classmates.
+imgUrl: '../../assets/eco.jpeg'
+description: A serious game made in Unity. You play as the mayor of a town next to a rural area. You are presented with different environmental dilemmas that will affect your resources.
 ---
 
-## Vanguard Music
+## Eco Swipe
 
-This AI-Powered Music Composition Tool is an innovative solution designed to help video game developers generate unique yet cohesive soundtracks. Using machine learning algorithms for training, the tool creates melodies that are then processed in REAPER to produce a complete song tailored to the desired mood and intensity.
+This is a serious game made in Unity. You play as the mayor of a town next to a rural area. You are presented with different environmental dilemmas that will affect your resources. I did this along two classmates
 
 ## Features
 
