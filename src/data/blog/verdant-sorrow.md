@@ -32,4 +32,4 @@ My contributions to the project are:
 
 ## Links
 
-- [GitHub Repository](https://github.com/miggon23/TFG_AsistenteComposicionConIA)
+- [Official webpage](https://xuppap-inc.github.io/VerdantSorrow/)
