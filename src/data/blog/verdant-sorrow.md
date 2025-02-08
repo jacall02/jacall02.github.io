@@ -5,12 +5,12 @@ author: "Javier Callejo"
 tags:
 - JavaScript
 imgUrl: '../../assets/vs.jpeg'
-description: Verdant Sorrow is a 2D video game made in C++ with SDL. It features 3 souls-like boss encounters set in a fantasy world.
+description: Verdant Sorrow is a 2D video game made in C++ with SDL. It features souls-like boss encounters set in a fantasy world.
 ---
 
 ## Verdant Sorrow
 
-Verdant Sorrow is a 2D video game made in C++ with SDL. It features 3 souls-like boss encounters set in a fantasy world. I made this game alongside nine classmates.
+Verdant Sorrow is a 2D video game made in C++ with SDL. It features souls-like boss encounters set in a fantasy world. I made this game alongside nine classmates.
 
 ## Demonstration Video
 
