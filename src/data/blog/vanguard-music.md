@@ -1,6 +1,6 @@
 ---
 title: Vanguard Music, a video game music generation tool
-pubDate: 07/02/2022
+pubDate: 05/29/2024
 author: "Javier Callejo"
 tags:
   - JavaScript

@@ -1,8 +1,9 @@
 ---
 title: Verdant Sorrow, a 2D souls-like video game
-pubDate: 5/30/2022
+pubDate: 05/30/2022
 author: "Javier Callejo"
 tags:
+- JavaScript
 imgUrl: '../../assets/vs.jpeg'
 description: This project is my final degree thesis, an AI-powered tool for automatic music composition designed for video games. It enables game developers to create music for their games without any prior musical knowledge. I developed this alongside three classmates.
 ---
