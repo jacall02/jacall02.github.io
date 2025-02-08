@@ -1,6 +1,6 @@
 ---
 title: Crazy U, a video game made with a custom game engine
-pubDate: 05/29/2024
+pubDate: 04/05/2023
 author: "Javier Callejo"
 tags:
   - C++

@@ -1,6 +1,6 @@
 ---
 title: Muse, a commercial video for a musicians networking app
-pubDate: 05/29/2024
+pubDate: 04/29/2024
 author: "Javier Callejo"
 tags:
   - Music Production

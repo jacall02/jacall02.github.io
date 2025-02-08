@@ -1,6 +1,6 @@
 ---
 title: No me juzgues, a point and click video game inspired by scape rooms
-pubDate: 05/29/2024
+pubDate: 03/12/2023
 author: "Javier Callejo"
 tags:
   - Game Design
@@ -25,12 +25,9 @@ This game was made for a game jam. I made this alongside three classmates.
 
 My contributions to the project are:
 - **Game design** of key aspects of the game.
-- **Programming in C++** of various aspects of the game.
-- **Custom particle system** using C++ and SDL.
 - **2D art** of the game.
 - **Music Production** and sound design.
-- **Video filming** and editing.
-- **Logo** and branding design for the game and company.
+- **Logo** and branding design for the game.
 
 ## Links
 

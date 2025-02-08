@@ -1,6 +1,6 @@
 ---
 title: Music Loops game, a music based game about mixing various genres and sounds
-pubDate: 05/29/2024
+pubDate: 12/20/2023
 author: "Javier Callejo"
 tags:
   - C#

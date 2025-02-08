@@ -1,6 +1,6 @@
 ---
 title: Eco Swipe, a serious game about environmental decision making
-pubDate: 05/29/2024
+pubDate: 12/18/2023
 author: "Javier Callejo"
 tags:
   - Game Design
