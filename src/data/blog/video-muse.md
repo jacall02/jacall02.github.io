@@ -9,7 +9,7 @@ tags:
   - Sound Design
   - 2D Art
 imgUrl: '../../assets/muse.jpeg'
-description: This project is a commercial video for a ficticious app which helps musicians network and meet other musicians
+description: This project is a commercial video for a fictitious app which helps musicians network and meet other musicians
 ---
 
 ## Muse
@@ -23,4 +23,6 @@ This project is a commercial video for a ficticious app which helps musicians ne
 ## My work
 
 My contributions to the project are:
-- **Drum Machine** coded in Python to generate unique drum scores in MIDI.
+- **Music Production** and sound design.
+- **Video filming** and editing.
+- **Logo** and branding design for the game and company.

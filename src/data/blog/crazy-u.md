@@ -28,11 +28,12 @@ In this project we implemented our own 3D game engine and then developed a racin
 ## My work
 
 My contributions to the project are:
-- **Drum Machine** coded in Python to generate unique drum scores in MIDI.
-- **Loading MIDI** in REAPER using reascript with Python.
-- **Music Production** for the different genres and moods.
-- **Background art** pre-rendered in 3D using Blender.
-- **UI Design** and visual composition.
+- **Programming in C++** of various aspects of the game.
+- **3D environment** design.
+- **Music Production** and sound design.
+- **Video editing**.
+- **Logo** and branding design for the game and company.
+
 
 ## Links
 

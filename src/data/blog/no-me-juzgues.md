@@ -24,7 +24,13 @@ This game was made for a game jam. I made this alongside three classmates.
 ## My work
 
 My contributions to the project are:
-- **Drum Machine** coded in Python to generate unique drum scores in MIDI.
+- **Game design** of key aspects of the game.
+- **Programming in C++** of various aspects of the game.
+- **Custom particle system** using C++ and SDL.
+- **2D art** of the game.
+- **Music Production** and sound design.
+- **Video filming** and editing.
+- **Logo** and branding design for the game and company.
 
 ## Links
 

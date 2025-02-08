@@ -24,4 +24,6 @@ In this simple game you can mix different music loops to create unique compositi
 ## My work
 
 My contributions to the project are:
-- **Drum Machine** coded in Python to generate unique drum scores in MIDI.
+- **Programming in C#** of various aspects of the game.
+- **2D art** of the game.
+- **Music Production** and sound design.

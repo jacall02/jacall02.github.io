@@ -11,7 +11,7 @@ tags:
   - FMod
   - 3D Art
 imgUrl: '../../assets/dest.jpeg'
-description: This game was made for a game jam
+description: This game was made for a game jam.
 ---
 
 ## Destino Rojo
@@ -25,7 +25,9 @@ This game was made for a game jam. I made this alongside five classmates.
 ## My work
 
 My contributions to the project are:
-- **Drum Machine** coded in Python to generate unique drum scores in MIDI.
+- **Game design** of key aspects of the game.
+- **3D environment** design.
+- **Music Production** and sound design.
 
 ## Links
 

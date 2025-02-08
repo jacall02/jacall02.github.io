@@ -26,4 +26,8 @@ This is a serious game made in Unity. You play as the mayor of a town next to a 
 ## My work
 
 My contributions to the project are:
-- **Drum Machine** coded in Python to generate unique drum scores in MIDI.
+- **Game design** of key aspects of the game.
+- **Programming in C#** of various aspects of the game.
+- **2D art** of the game.
+- **Music Production** and sound design.
+- **Logo** and branding design for the game.
