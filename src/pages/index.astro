@@ -11,10 +11,14 @@ const builtWith = [
   { name: 'Unreal Engine', url: 'https://www.unrealengine.com/' },
   { name: 'Blender', url: 'https://www.blender.org/' },
   { name: 'Adobe Photoshop', url: 'https://www.adobe.com/products/photoshop.html' },
+  { name: 'Adobe Premiere Pro', url: 'https://www.adobe.com/products/premiere.html' },
   { name: 'FMod', url: 'https://www.fmod.com/' },
   { name: 'Git', url: 'https://git-scm.com/' },
   { name: 'C++', url: 'https://isocpp.org/' },
   { name: 'C#', url: 'https://learn.microsoft.com/en-us/dotnet/csharp/' },
+  { name: 'REAPER', url: 'https://www.reaper.fm/' },
+  { name: 'Python', url: 'https://www.python.org/' },
+  { name: 'DaVinci Resolve', url: 'https://www.blackmagicdesign.com/products/davinciresolve' },
 ];
 ---
 
@@ -42,10 +46,21 @@ const builtWith = [
           </div>
         </Card>
       </div>
-       <div class='col-span-2'>
+      <div class='col-span-2'>
+        <Card>
+          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-4 dm-serif'>
+            About Me
+          </h2>
+          <p class='poppins'>
+            I am a creative person seeking the fusion of music and visuals, primarily focused on achieving this through video game development. 
+            I am always looking for new challenges to overcome in order to grow as an artist and as a person.
+          </p>
+        </Card>
+      </div>
+      <div class='col-span-2'>
         <Card>
           <h2 class='text-2xl md:text-4xl lg:text-6xl mb-8 dm-serif'>
-            Tecnologías que uso
+            My skills
           </h2>
           <ul class='flex gap-4 flex-wrap'>
             {
@@ -65,17 +80,6 @@ const builtWith = [
               ))
             }
           </ul>
-        </Card>
-      </div>
-      <div class='col-span-2'>
-        <Card>
-          <h2 class='text-2xl md:text-4xl lg:text-6xl mb-4 dm-serif'>
-            About Me
-          </h2>
-          <p class='poppins'>
-            I am a creative person seeking the fusion of music and visuals, primarily focused on achieving this through video game development. 
-            I am always looking for new challenges to overcome in order to grow as an artist and as a person.
-          </p>
         </Card>
       </div>
     </section>
