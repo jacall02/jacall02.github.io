@@ -3,7 +3,10 @@ title: Vanguard Music, a video game music generation tool
 pubDate: 05/29/2024
 author: "Javier Callejo"
 tags:
-  - JavaScript
+  - Music Production
+  - Python
+  - 3D Art
+  - UI Design
 imgUrl: '../../assets/vm.jpeg'
 description: This project is my final degree thesis, an AI-powered tool for automatic music composition designed for video games. It enables game developers to create music for their games without any prior musical knowledge. I developed this alongside three classmates.
 ---
