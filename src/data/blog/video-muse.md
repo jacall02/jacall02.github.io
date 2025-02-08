@@ -9,12 +9,12 @@ tags:
   - Sound Design
   - 2D Art
 imgUrl: '../../assets/muse.jpeg'
-description: This project is my final degree thesis, an AI-powered tool for automatic music composition designed for video games. It enables game developers to create music for their games without any prior musical knowledge. I developed this alongside three classmates.
+description: This project is a commercial video for a ficticious app which helps musicians network and meet other musicians
 ---
 
 ## Muse
 
-This AI-Powered Music Composition Tool is an innovative solution designed to help video game developers generate unique yet cohesive soundtracks. Using machine learning algorithms for training, the tool creates melodies that are then processed in REAPER to produce a complete song tailored to the desired mood and intensity.
+This project is a commercial video for a ficticious app which helps musicians network and meet other musicians.
 
 ## Demonstration Video
 

@@ -10,12 +10,12 @@ tags:
   - UI Design
   - Sound Design
 imgUrl: '../../assets/nome.jpeg'
-description: This project is my final degree thesis, an AI-powered tool for automatic music composition designed for video games. It enables game developers to create music for their games without any prior musical knowledge. I developed this alongside three classmates.
+description: This game was made for a game jam.
 ---
 
 ## No me juzgues
 
-This AI-Powered Music Composition Tool is an innovative solution designed to help video game developers generate unique yet cohesive soundtracks. Using machine learning algorithms for training, the tool creates melodies that are then processed in REAPER to produce a complete song tailored to the desired mood and intensity.
+This game was made for a game jam. I made this alongside three classmates.
 
 ## Demonstration Video
 
