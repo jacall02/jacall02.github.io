@@ -1,14 +1,13 @@
 ---
-title: Vanguard Music, a video game music generation tool
-pubDate: 07/02/2022
+title: Verdant Sorrow, a 2D souls-like video game
+pubDate: 5/30/2022
 author: "Javier Callejo"
 tags:
-  - JavaScript
-imgUrl: '../../assets/vm.jpeg'
+imgUrl: '../../assets/vs.jpeg'
 description: This project is my final degree thesis, an AI-powered tool for automatic music composition designed for video games. It enables game developers to create music for their games without any prior musical knowledge. I developed this alongside three classmates.
 ---
 
-## Vanguard Music
+## Verdant Sorrow
 
 This AI-Powered Music Composition Tool is an innovative solution designed to help video game developers generate unique yet cohesive soundtracks. Using machine learning algorithms for training, the tool creates melodies that are then processed in REAPER to produce a complete song tailored to the desired mood and intensity.
 
