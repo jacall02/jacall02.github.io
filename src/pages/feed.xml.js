@@ -5,7 +5,7 @@ export async function GET(context) {
   const blog = await getCollection('blog');
   return rss({
     title: 'Portfolio',
-    description: 'Brutal is a theme for Astro',
+    description: 'Javier Callejo',
     stylesheet: false,
     site: context.site,
     items: blog.map((post) => ({
